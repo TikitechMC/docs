@@ -26,7 +26,7 @@ All elements and divs, not required for all elements
 ### Canvas
 
 #### Applicable to
-Everything with a changeable texture.
+Everything with a changeable texture. Can be animated.
 
 ### Color
 
