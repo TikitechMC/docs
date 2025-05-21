@@ -38,7 +38,8 @@ elements {
 ```
 
 #### Position
-The position section always requires both the `x` and `y` value to be defined, either in percentages, pixels or a mix of both.  
+The position section always requires both the `x` and `y` value to be defined, either in percentages, pixels or a mix of both. 
+In certain cases it might be needed to offset based on the div size, in that case you can use `&`. `center` can be used to center a div, it is the same as `50% - 50&` 
 Example positions could look like the following
 ```json
 position {
