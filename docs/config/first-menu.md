@@ -62,7 +62,7 @@ A list of default elements is given below
 | Dropdown | dropdown | Compact element with dropdown selector list. | Yes | [Canvas](/docs/config/definitions#canvas), [Position](/docs/config/definitions#position) |
 | Selector | selector | Multiple buttons, either vertical or horizontal with max 1 selected. | Yes | [Canvas](/docs/config/definitions#canvas), [Position](/docs/config/definitions#position) |
 | Shape | shape | Simple single color filled shape. | No | [Canvas](/docs/config/definitions#canvas), [Position](/docs/config/definitions#position) |
-| Text | text | Simple text implementation. | No | [Canvas](/docs/config/definitions#canvas), [Position](/docs/config/definitions#position) |
+| Text | text | Simple text implementation with font. | No | [Canvas](/docs/config/definitions#canvas), [Position](/docs/config/definitions#position) |
 | Text Input | text_input | Text box that allows for usable text input. | Yes | [Canvas](/docs/config/definitions#canvas), [Position](/docs/config/definitions#position) |
 
 #### Usage
