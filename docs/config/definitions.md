@@ -19,6 +19,17 @@ position {
 All elements and divs, required.
 
 ### Size
+Size has two required fields: `width` and `height`, it allows for the same modifiers as position.
+```json
+position {
+    width = "16px"
+    height = "5%"
+}
+position {
+    width = "50% + 45px"
+    height = "6px + 2%"
+}
+```
 
 #### Applicable to
 All elements and divs, not required for all elements

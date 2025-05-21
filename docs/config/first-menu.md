@@ -6,9 +6,9 @@ sidebar_position: 1
 Creating a menu is really simple with Sunscreen! We'll go through the neccesary steps for your first (fullscreen) menu.  
 
 ## 📁 The file
-Sunscreen doesn't use YML but [HOCON](https://github.com/lightbend/config/blob/main/HOCON.md) instead. This choice was made because of the decreased readability YML has with lots of nested elements and the possible indentation errors that come with it.  
+Sunscreen doesn't use YML but [HOCON](https://github.com/lightbend/config/blob/main/HOCON.md) instead. This choice was made because of the low readability YML has with lots of nested elements and the possible indentation errors that come with it. We understand that this unknown format can be quite scary and new, do not hesitate to ask questions about it in the Discord. An ingame editor is planned and actively being worked on to circumvent the file format.
 
-For further explanations on the behavior of config elements, please consult the [definitions](/docs/definitions) page
+For further explanations on the behavior of config elements, please consult the [definitions](/docs/config/definitions) page
 
 ### Required
 A menu config always requires the following entries
