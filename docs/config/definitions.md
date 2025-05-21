@@ -21,7 +21,7 @@ All elements and divs, required.
 ### Size
 
 #### Applicable to
-All elements and divs, not required for all elements.
+All elements and divs, not required for all elements
 
 ### Canvas
 
